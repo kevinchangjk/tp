@@ -14,7 +14,7 @@ You can reach us at the email `seer[at]comp.nus.edu.sg`
 <img src="images/chao890.png" width="200px">
 
 [[github](https://github.com/chao890)]
-[[portfolio](team/johndoe.md)]
+[[portfolio](team/chao890.md)]
 
 - Role: Developer
 - Responsibilities: Documentation, Git Expert
